@@ -1,0 +1,6 @@
+# Emacs backup files
+*~
+.#*
+```
+
+These rules will ignore files ending with `~` and files starting with `.#`, which are typically temporary files created by Emacs.
